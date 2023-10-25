@@ -4,4 +4,5 @@ Green
 Dark Green
 Mint Green
 Teal
+Rainbow
 Dark Blue
